@@ -1,0 +1,10 @@
+La seguridad digital es el pilar fundamental que sostiene la confianza en cualquier
+plataforma de construcción comunitaria o proceso participativo. Sin garantías de 
+protección, los usuarios se retraen de compartir ideas por temor a que su información personal 
+sea filtrada o utilizada para represalias, lo que debilita el tejido democrático del espacio. 
+Además, la integridad de los datos es vital para asegurar que los resultados de una votación 
+o debate no sean manipulados por actores externos con intereses malintencionados. Una brecha
+de seguridad no solo compromete datos técnicos, sino que destruye la legitimidad de los 
+procesos colectivos y silencia las voces de los sectores más vulnerables. Mantener plataformas 
+robustas permite que la participación sea inclusiva, transparente y resistente ante ataques 
+que busquen desestabilizar la organización social. 
